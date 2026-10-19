@@ -12,12 +12,12 @@ Stop floating payroll while you wait to get paid. A pay-app + retainage + lien-d
 ## Why this kit
 
 
-In Siteline's "State of Subcontractor Billing in 2026" survey of 492 construction finance and operations professionals (reported by Contractor Magazine, September 4, 2026):
+In Siteline’s “State of Subcontractor Billing in 2026” survey of 492 construction finance and operations professionals (reported by Contractor Magazine, September 4, 2026):
 
 
 - 92% of subcontractors floated payroll from their own pockets while waiting for payment.
 - 43% waited 90 days or more to collect final payment plus retainage.
-- 56% missed a critical mechanic's lien deadline in the past two years.
+- 56% missed a critical mechanic’s lien deadline in the past two years.
 - 67% spend 11 or more hours every month preparing, submitting, and tracking pay applications.
 
 
@@ -36,7 +36,7 @@ This kit does not change what GCs owe you. It changes the four things you contro
 7. **Pay-App Checklist** — 12 pre-submit checks with an automatic READY / NOT READY verdict.
 
 
-## What's inside (21 files)
+## What’s inside (21 files)
 
 
 - 11 workbooks — English, Mandarin (Simplified), French, Spanish, Arabic (RTL), Russian, German, Japanese, Portuguese, Hindi, Italian. Same 7 sheets, same formulas.
@@ -56,7 +56,7 @@ Inspect the free sample workbook — Schedule of Values, Pay Application, and Li
 ## Demo video
 
 
-72-second walkthrough of the real v1.0 files — link added after upload.
+Demo video: https://youtu.be/7e39KcvBh-M
 
 
 ## Buy
